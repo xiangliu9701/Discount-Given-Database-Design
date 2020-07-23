@@ -1,2 +1,5 @@
-# Discount-Given-Database-Design
-Design a database for online-shopping website to issue discount 
+#折扣发放数据库
+
+项目介绍：
+为在线购物网站设计一个数据库，是这个数据库可以满足网站的基本操作，如：注册登陆、加入购物车、购买商品等。
+在网站的基础功能上，增加折扣发放功能。明确发放折扣的目的：清空库存、增加转化率、提高顾客黏性、刺激留存防止流失上。根据目的制定折扣发放的规则，根据规则优化并完善我们的数据库。
